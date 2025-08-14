@@ -1,6 +1,6 @@
 import { defineFunction } from "@aws-amplify/backend"
 
 export const defineAuthChallenge = defineFunction({
-    name: "define-auth-challenge",
-    resourceGroupName: 'auth'
+    name: "define-auth-challenge"
+    //resourceGroupName: 'auth'
 })
