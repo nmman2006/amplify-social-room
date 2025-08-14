@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-amplify/backend-auth": "^1.7.1",
     "@aws-amplify/ui-react": "^6.1.8",
     "@aws-sdk/client-bedrock-runtime": "^3.564.0",
     "@aws-sdk/client-s3": "^3.564.0",
