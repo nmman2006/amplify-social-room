@@ -16,5 +16,4 @@ export const auth = defineAuth({
     defineAuthChallenge,
     verifyAuthChallengeResponse,
   },
-}
-)
+})
